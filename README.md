@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="foto git 1.jpeg" alt="Luiz Fernando acenando" width="300"/>
+ ![Descrição da imagem](foto_git_1.jpeg)
+
 </div>
 
 <table>
