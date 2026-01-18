@@ -1,16 +1,12 @@
 <div align="center">
-
-  <h1>👋 Olá, eu sou Luiz Fernando</h1>
-  <p>💻 Estudo Sistemas de informação</p>
-  <br>
-
-  <h2>🛠️ Ferramentas e Tecnologias</h2>
+  <h1>👋 Olá, sou Luiz Fernando</h1>
+  <p>💻 Sistemas de Informação</p>
+  <h2>🛠️ Ferramentas</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python">
   </p>
-  <br>
-
+</div>
   <h2>📚 Atualmente aprendendo</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
@@ -19,9 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux">
   </p>
-
   <h2>🌐 Conecte-se comigo</h2>
-
 <table>
   <tr>
     <td>
@@ -36,8 +30,6 @@
     </td>
   </tr>
 </table>
-
-
   <div>
 <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn – Luiz Fernando"/></a>
@@ -54,17 +46,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
-<div align="center">
-  <h1>👋 Olá, sou Luiz Fernando</h1>
-  <p>💻 Sistemas de Informação</p>
-  <h2>🛠️ Ferramentas</h2>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python">
-  </p>
-</div>
-
-
