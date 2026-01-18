@@ -37,7 +37,7 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=algolia&include_all_commits=true"
   />
   <img
     height="180em"
