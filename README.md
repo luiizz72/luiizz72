@@ -22,4 +22,47 @@
        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
        alt="Instagram de luiizz_alves7">
 </a>
+<div align="center">
+  <img src="img/apontando.png" width="200"/>
 </div>
+
+</div>
+
+/img img/tchau.png
+img/apontando.png
+<div align="center">
+  <img src="img/tchau.png" width="200"/>
+</div>
+
+
+<div align="center">
+  <img src="img/tchau.png" width="200"/>
+</div>
+
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+<div align="center">
+  <img src="img/apontando.png" width="200"/><br><br>
+
+  <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&to=luiz991675232@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.gg/ballerini-789888698673922078" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/luiizz_alves7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
