@@ -43,3 +43,21 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/luiizz72">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats do GitHub"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/luiizz72">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
+      </a>
+    </td>
+  </tr>
+</table>
