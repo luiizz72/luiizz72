@@ -56,3 +56,9 @@
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luiizz72&layout=compact&theme=algolia"
   />
 </div>
+
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luiizz72&theme=dark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luiizz72&theme=darkhub&no-frame=true&row=1">
+</div>
