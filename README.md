@@ -2,17 +2,7 @@
 
   <h1>👋 Olá, eu sou Luiz Fernando</h1>
   <p>💻 Estudo Sistemas de informação</p><br>
-  <h2>🛠️ Ferramentas e Tecnologias</h2><p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"></p><br>
-  <h2>📚 Atualmente aprendendo</h2><p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
-  </p>
-  <h2>🌐 Conecte-se comigo</h2>
-<div align="center">
-<a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
+  <h2>🛠️ Ferramentas e Tecnologias</h2><p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"></p><br><h2>📚 Atualmente aprendendo</h2><p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"></p><h2>🌐 Conecte-se comigo</h2><div align="center"><a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&to=luiz991675232@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
