@@ -22,6 +22,22 @@
 
   <h2>🌐 Conecte-se comigo</h2>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/luiizz72">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats do GitHub"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/luiizz72">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
   <div>
 <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn – Luiz Fernando"/></a>
