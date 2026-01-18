@@ -21,6 +21,12 @@
   </p>
 
   <h2>🌐 Conecte-se comigo</h2>
+<div align="center">
+  <a href="https://github.com/luiizz72">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=dark"/>
+  </a>
+</div>
   <div>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&to=luiz991675232@gmail.com" target="_blank">
@@ -32,20 +38,4 @@
 </div>
   </div>
 
-  <br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
-  </picture>
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/luiizz72">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
 
