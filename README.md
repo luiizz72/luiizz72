@@ -30,8 +30,9 @@
   </a>
 
 <a href="https://mail.google.com/mail/?view=cm&to=luiz991675232@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
   <a href="https://discord.gg/ballerini-789888698673922078" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
