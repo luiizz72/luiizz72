@@ -33,23 +33,3 @@
 <a href="https://discord.gg/ballerini-789888698673922078" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/luiizz_alves7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-
-  <!-- GitHub Stats -->
-  <h2>📊 GitHub Stats</h2>
-  <div>
-    <img height="180em"
-         src="https://luiizz72-github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true&locale=pt-br" />
-    <img height="180em"
-         src="https://luiizz72-github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=8&theme=algolia&hide_border=true&locale=pt-br" />
-  </div>
-
-  <br>
-
-  <!-- GitHub Streak & Trophies -->
-  <h2>🔥 Streak & Trophies</h2>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiizz72&theme=dark" />
-    <img src="https://github-profile-trophy.vercel.app/?username=luiizz72&theme=darkhub&no-frame=true&row=1" />
-  </div>
-
-</div>
