@@ -71,3 +71,12 @@
     src="https://luiizz72-github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&theme=algolia"
   />
 </div>
+
+
+
+<div align="center">
+  <img height="180em"
+       src="https://luiizz72-github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=algolia&include_all_commits=true" />
+  <img height="180em"
+       src="https://luiizz72-github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=8&theme=algolia" />
+</div>
