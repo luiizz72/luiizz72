@@ -2,11 +2,8 @@
 
   <h1>👋 Olá, eu sou Luiz Fernando</h1>
   <p>💻 Estudo Sistemas de informação</p><br>
-  <h2>🛠️ Ferramentas e Tecnologias</h2><p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python">
-  </p>
-  <br>
-  <h2>📚 Atualmente aprendendo</h2>
-  <p>
+  <h2>🛠️ Ferramentas e Tecnologias</h2><p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"></p><br>
+  <h2>📚 Atualmente aprendendo</h2><p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux">
