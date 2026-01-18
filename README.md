@@ -63,5 +63,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=luiizz72&theme=darkhub&no-frame=true&row=1">
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<div align="center">
+  <img height="180em"
+    src="https://luiizz72-github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=algolia"
+  />
+  <img height="180em"
+    src="https://luiizz72-github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&theme=algolia"
+  />
+</div>
