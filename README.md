@@ -8,11 +8,10 @@
   <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
   </a>
-</a>
-<a href="mailto:luiz991675232@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=luiz991675232@gmail.com" target="_blank">
   <img loading="lazy"
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-       alt="Enviar e-mail para Luiz">
+       alt="Enviar e-mail">
 </a>
 
   <a href="https://discord.gg/ballerini-789888698673922078" target="_blank">
