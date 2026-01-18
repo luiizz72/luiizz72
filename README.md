@@ -21,18 +21,6 @@
  <img loading="lazy"
        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
        alt="Instagram de luiizz_alves7">
-</a>
-<div align="center">
-  <img src="img/apontando.png" width="200"/>
-</div>
-
-</div>
-
-/img img/tchau.png
-img/apontando.png
-<div align="center">
-  <img src="img/tchau.png" width="200"/>
-</div>
 
 
 <div align="center">
