@@ -28,7 +28,9 @@
   </a>
 </div>
   <div>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://mail.google.com/mail/?view=cm&to=luiz991675232@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discord.gg/ballerini-789888698673922078" target="_blank">
