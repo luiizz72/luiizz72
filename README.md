@@ -62,3 +62,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luiizz72&theme=darkhub&no-frame=true&row=1">
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
