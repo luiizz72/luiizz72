@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>👋 Olá, eu sou Luiz Fernando</h1>
-  <p>💻 Estudante de programação e tecnologia</p>
+  <p>💻 Estudo Sistemas de informaão</p>
 
   <br>
 
