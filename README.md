@@ -14,11 +14,12 @@
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
        alt="Enviar e-mail para Luiz">
 </a>
-<a href="https://www.instagram.com/luiizz_alves7/" target="_blank">
-  <img loading="lazy"
-       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-       alt="Instagram de luiizz_alves7">
+
   <a href="https://discord.gg/ballerini-789888698673922078" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord"/>
   </a>
+  <a href="https://www.instagram.com/luiizz_alves7/" target="_blank">
+  <img loading="lazy"
+       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+       alt="Instagram de luiizz_alves7">
 </div>
