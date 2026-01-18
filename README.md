@@ -21,14 +21,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
   </p>
-
-  <br>
-  <a href="https://github.com/luiizz72">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
-</table>
   <h2>🌐 Conecte-se comigo</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
@@ -48,9 +40,3 @@
 </picture>
 
 ###
-<div align="center">
-  <a href="https://github.com/luiizz72">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
