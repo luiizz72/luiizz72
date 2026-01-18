@@ -19,3 +19,48 @@
 </picture>
 
 ###
+
+
+
+
+<div align="center">
+
+  <h1>👋 Olá, eu sou Luiz Fernando</h1>
+  <p>💻 Estudo Sistemas de Informação</p>
+
+  <br>
+
+  <h2>🌐 Conecte-se comigo</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:luiz991675232@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://discord.gg/ballerini-789888698673922078" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/luiizz_alves7/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </p>
+
+  <br>
+
+  <h2>📊 Meus Painéis</h2>
+  <a href="https://github.com/luiizz72">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+
+  <br>
+
+  <h2>📈 Meu Gráfico de Contribuições</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
+  </picture>
+
+</div>
