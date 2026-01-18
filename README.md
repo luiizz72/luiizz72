@@ -24,13 +24,4 @@
 </a>
 </div>
 
-<div>
-  <a href="https://github.com/luiizz72" target="_blank">
-    <img height="180px"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=7&theme=dracula"/>
-
-    <img height="180px"
-         src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
