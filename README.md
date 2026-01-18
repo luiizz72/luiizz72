@@ -2,6 +2,9 @@
  
  ![Descrição da imagem](foto_git_1.jpeg)
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+         
 </div>
 
 <table>
