@@ -59,3 +59,17 @@
 
 
  
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/luiizz72">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiizz72&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats do GitHub"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/luiizz72">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiizz72&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas"/>
+      </a>
+    </td>
+  </tr>
+</table>
