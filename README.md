@@ -1,10 +1,8 @@
 <div align="center">
 
   <h1>👋 Olá, eu sou Luiz Fernando</h1>
-  <p>💻 Estudo Sistemas de informação</p>
-  <br>
-  <h2>🛠️ Ferramentas e Tecnologias</h2>
-  <p>
+  <p>💻 Estudo Sistemas de informação</p><br>
+  <h2>🛠️ Ferramentas e Tecnologias</h2><p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python">
   </p>
