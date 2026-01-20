@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Olá, sou Luiz Fernando</h1>
-<p>🎯 Em busca da primeira oportunidade na área de tecnologia</p>
+<p>📍 Em busca da primeira oportunidade na área de tecnologia</p>
 
-  <h2>🚀 Sobre mim</h2>
+  <h2>👨‍💻 Sobre mim</h2>
 <p style="max-width: 700px;">
 Estudante de Sistemas de Informação, apaixonado por tecnologia e pelo poder que o
 conhecimento tem de transformar realidades. Encontro na prática o meu maior meio
@@ -10,12 +10,12 @@ de aprendizado, buscando evoluir todos os dias e transformar ideias em projetos
 reais com dedicação e propósito.
 </p>
 
-  <h2>🛠️ Ferramentas</h2>
+  <h2>⚙️ Ferramentas</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
   </p>
-  <h2>📚 Atualmente aprendendo</h2>
+  <h2>📘 Atualmente aprendendo</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
