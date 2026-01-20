@@ -20,7 +20,10 @@ reais com dedicação e propósito.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux">
   </p>
-  📫 Contato
+<p align="center">
+  📬 Contato
+</p>
+
 <div align="center">
  <div>
 <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
