@@ -53,6 +53,8 @@ reais com dedicação e propósito.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
  <div>
 <a href="https://www.linkedin.com/in/luiz-fernando-2a01b22a8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn – Luiz Fernando"/></a>
