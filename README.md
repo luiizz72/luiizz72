@@ -20,9 +20,7 @@ reais com dedicação e propósito.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux">
   </p>
-<p align="center">
-  📬 Contato
-</p>
+<h2 align="center">📬 Contato</h2>
 
 <div align="center">
  <div>
