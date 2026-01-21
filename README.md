@@ -1,7 +1,10 @@
 <div align="center">
   <h1>👋 Olá, sou Luiz Fernando</h1>
 <p>📍 Em busca da primeira oportunidade na área de tecnologia</p>
-  <h2>👨‍💻 Sobre mim</h2>
+  <h2> Sobre mim</h2>
+  <h2> ┌─ 👨🏻‍💻 ─────────┐
+│ coding everyday │
+└─────────────────┘Sobre mim</h2>
 <p style="max-width: 700px;">
 Estudante de Sistemas de Informação, apaixonado por tecnologia e pelo poder que o
 conhecimento tem de transformar realidades. Encontro na prática o meu maior meio
