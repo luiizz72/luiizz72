@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Olá, sou Luiz Fernando</h1>
+  <h1> 👋Olá, sou Luiz Fernando</h1>
 <p>📍 Em busca da primeira oportunidade na área de tecnologia</p>
   <h2> 👨🏻‍💻 Sobre mim</h2>
 <p style="max-width: 700px;">
