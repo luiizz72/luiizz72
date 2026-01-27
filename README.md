@@ -33,7 +33,8 @@ reais com dedicação e propósito.
 <a href="https://www.instagram.com/luiizz_alves7/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-  
+  <img width="2000" height="400" alt="header_ (1)" src="https://github.com/user-attachments/assets/9accf860-a8af-44a3-a84e-9433489ee681" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiizz72/luiizz72/output/pacman-contribution-graph-dark.svg">
