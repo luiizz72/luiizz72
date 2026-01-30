@@ -16,32 +16,6 @@ reais com dedicação e propósito.
   </p>
   <h2>📘 Atualmente aprendendo</h2>
   <p>
-
-
-
-
-
-
-
-<table>
-  <tbody>
-    <tr>
-     <td align="center" width="96">
-       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390…2f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c">
-       <br>
-      "HTML5 "
-      <td align="center" width="96">
-        <a href="https://skillicons.dev/icons?i=css" target="_blank" rel="noopener noreferrer">
-          <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" />
-        </a>
-        <br />
-        CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
