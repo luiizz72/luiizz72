@@ -23,16 +23,20 @@ reais com dedicação e propósito.
 
 
 
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://skillicons.dev/icons?i=css" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" />
+        </a>
+        <br />
+        CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
-</tbody>
-</td>    
-<td align="center" width="96">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6…10ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373">
-<br>
-"CSS "
-</tr>
-</tbody>
     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
