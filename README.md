@@ -32,52 +32,46 @@ reais com dedicação e propósito.
     <tbody>
       <tr>
         <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img
-              src="https://techstack-generator.vercel.app/python-icon.svg"
-              alt="Python"
-              width="65"
-              height="65"
-            />
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa…6b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667">
+            <img src="https://camo.githubusercontent.com/afdf5a3……6b2d676…" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width:100%;height:auto;max-height:65px;">
           </a>
-          <br />
+          <br>
+          "React "
+        </td>
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+          </a>
+          <br>
           Python
         </td>
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/js-icon.svg"
-              alt="JavaScript"
-              width="65"
-              height="65"
-            />
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
           </a>
-          <br />
+          <br>
           JavaScript
         </td>
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/github-icon.svg"
-              alt="GitHub"
-              width="65"
-              height="65"
-            />
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
           </a>
-          <br />
+          <br>
           GitHub
         </td>
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://skillicons.dev/icons?i=html"
-              alt="HTML5"
-              width="48"
-              height="48"
-            />
+            <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
           </a>
-          <br />
+          <br>
           HTML5
+        </td>
+        <td align="center" width="96">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6…10ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373">
+            <img src="https://camo.githubusercontent.com/172955b……10ec/6874747…" width="48" height="48" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width:100%;height:auto;max-height:48px;">
+          </a>
+          <br>
+          "CSS "
         </td>
       </tr>
     </tbody>
