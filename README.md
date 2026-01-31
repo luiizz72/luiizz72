@@ -31,12 +31,18 @@ reais com dedicação e propósito.
   <table align="center" tabindex="0">
     <tbody>
       <tr>
-        <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa…6b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667">
-            <img src="https://camo.githubusercontent.com/afdf5a3……6b2d676…" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width:100%;height:auto;max-height:65px;">
-          </a>
-          <br>
-          "React "
+      <td align="center" width="96">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/react-icon.svg">
+    <img
+      src="https://techstack-generator.vercel.app/react-icon.svg"
+      alt="icon"
+      width="65"
+      height="65"
+      style="max-width:100%; height:auto; max-height:65px;"
+    >
+  </a>
+  <br>
+  React
         </td>
         <td align="center" width="96">
           <a href="#macropower-tech">
