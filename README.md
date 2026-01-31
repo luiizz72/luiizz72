@@ -102,7 +102,7 @@
               style="max-width: 100%; height: auto; max-height: 48px;"/>
           </a>
           <br/>
-          "Git "
+          Git 
         </td>
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
