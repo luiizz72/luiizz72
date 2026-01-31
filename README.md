@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 👋Olá, sou Luiz Fernando</h1>
+  <h1> 👋𝐎𝐥𝐚́, 𝐬𝐨𝐮 𝐋𝐮𝐢𝐳 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐨</h1>
 <p>📍𝙀𝙢 𝙗𝙪𝙨𝙘𝙖 𝙙𝙖 𝙥𝙧𝙞𝙢𝙚𝙞𝙧𝙖 𝙤𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙙𝙖𝙙𝙚 𝙣𝙖 𝙖́𝙧𝙚𝙖 𝙙𝙚 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 </p>
   <h2> 👨🏻‍💻 Sobre mim</h2>  
 <p style="max-width: 700px;">
@@ -11,7 +11,7 @@
 
  <div class="markdown-heading" dir="auto">
   <h1 class="heading-element" dir="auto">
-    🧰 Minhas ferramentas e tecnologias favoritas
+    🧰 𝐌𝐢𝐧𝐡𝐚𝐬 𝐟𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐞 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐚𝐬
   </h1>
 
   <a
@@ -149,7 +149,7 @@
   </table>
 </div>
   </p>
-<h2 align="center">📬 Contato</h2>
+<h2 align="center">📬 𝐂𝐨𝐧𝐭𝐚𝐭𝐨</h2>
 
 <div align="center">
  <div>
