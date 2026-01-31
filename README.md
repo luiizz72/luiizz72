@@ -66,13 +66,19 @@ reais com dedicação e propósito.
           <br>
           HTML5
         </td>
-        <td align="center" width="96">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6…10ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373">
-<img src="https://camo.githubusercontent.com/172955b……10ec/6874747…" width="48" height="48" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%; height: auto; max-height: 48px;">
-          </a>
-          <br>
-          "CSS "
-        </td>
+<td align="center" width="96">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=css">
+    <img
+      src="https://skillicons.dev/icons?i=css"
+      width="48"
+      height="48"
+      alt="css"
+      style="max-width: 100%; height: auto; max-height: 48px;"
+    >
+  </a>
+  <br>
+  CSS
+</td>
       </tr>
     </tbody>
   </table>
