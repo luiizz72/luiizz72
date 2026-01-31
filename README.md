@@ -53,7 +53,7 @@ reais com dedicação e propósito.
               height="65"
               style="max-width: 100%; height: auto; max-height: 65px;"/>
           </a>
-          <br />
+          <br/>
           React
         </td>
         <td align="center" width="96">
@@ -64,7 +64,7 @@ reais com dedicação e propósito.
               width="65"
               height="65"/>
           </a>
-          <br />
+          <br/>
           Python
         </td>
         <td align="center" width="96">
@@ -75,7 +75,7 @@ reais com dedicação e propósito.
               width="65"
               height="65"/>
           </a>
-          <br />
+          <br/>
           JavaScript
         </td>
         <td align="center" width="96">
@@ -86,7 +86,7 @@ reais com dedicação e propósito.
               width="65"
               height="65"/>
           </a>
-          <br />
+          <br/>
           GitHub
         </td>
         <td align="center" width="96">
@@ -101,7 +101,7 @@ reais com dedicação e propósito.
               alt="Git"
               style="max-width: 100%; height: auto; max-height: 48px;"/>
           </a>
-          <br />
+          <br/>
           "Git "
         </td>
         <td align="center" width="96">
@@ -112,7 +112,7 @@ reais com dedicação e propósito.
               width="48"
               height="48"/>
           </a>
-          <br />
+          <br/>
           HTML5
         </td>
         <td align="center" width="96">
@@ -127,25 +127,23 @@ reais com dedicação e propósito.
               alt="CSS"
               style="max-width: 100%; height: auto; max-height: 48px;"/>
           </a>
-          <br />
+          <br/>
           CSS
         </td>
-        <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d…">
-            <img
-              src="https://camo.githubusercontent.com/1e321c6……"
-              width="48"
-              height="48"
-              alt="VsCode"
-              data-canonical-src="https://skillicons.dev/icons?i=vscode"
-              style="max-width: 100%; height: auto; max-height: 48px;"/>
-          </a>
-          <br />
-          "VsCode "
-        </td>
+<td align="center" width="96">
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://skillicons.dev/icons?i=vscode">
+    <img
+      src="https://skillicons.dev/icons?i=vscode"
+      width="48"
+      height="48"
+      alt="VS Code"
+      style="max-width: 100%; height: auto; max-height: 48px;"/>
+  </a>
+  <br/>
+  VS Code
       </tr>
     </tbody>
   </table>
