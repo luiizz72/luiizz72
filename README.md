@@ -11,7 +11,7 @@
 
  <div class="markdown-heading" dir="auto">
   <h1 class="heading-element" dir="auto">
-    🧰 𝐌𝐢𝐧𝐡𝐚𝐬 𝐟𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐞 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐚𝐬
+    🧰 𝐌𝐢𝐧𝐡𝐚𝐬 𝐟𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐞 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐚𝐬 
   </h1>
 
   <a
